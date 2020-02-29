@@ -1,0 +1,22 @@
+body {
+	background: lightgreen;
+	text-align: center;
+}
+#main {
+width: 1000px;
+height: 1230px;
+background: #c6e2ff;
+margin: 25px auto;
+border: solid 4px #c0c0c0;
+}
+h1 {
+text-align:	center;
+font-family:"For my client";
+font: 24pt;
+color: red;
+}
+hr {
+height: 2px;
+color: #ffd5d5;
+}	
+
